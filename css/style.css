@@ -1,0 +1,32 @@
+#text {
+    color: red;
+    font-size: 60px;
+    background-color: blue;
+}
+
+#btn {
+    background-color: green;
+    padding: 5px;
+    color: white;
+    border-radius: 100px;
+    border: 1px solid red;
+}
+
+.txt {
+    color: brown;
+    font-family: cursive;
+}
+
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#my-btn {
+    padding-top: 20px;
+    border: 2px solid green;
+    margin-top: 20px;
+    margin-left: 500px;
+    padding-bottom: 30px;
+}

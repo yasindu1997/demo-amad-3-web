@@ -1,0 +1,9 @@
+#main{
+    width: 400px;
+    height: 500px;
+    border: 2px solid green;
+}
+
+#pass{
+    margin-top:10px;
+}

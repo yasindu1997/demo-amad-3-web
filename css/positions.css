@@ -1,0 +1,33 @@
+/* static, realative, absolute, fixed, sticky */
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 100px;
+    position: fixed;
+   bottom: 5px;
+   right: 5px;
+}
+.nav{
+    width: 800px;
+    height: 30px;
+    background-color: blue;
+    position: sticky;
+    top: 0px;
+}
+
+.main{
+    width: 600px;
+    height: 500px;
+    background-color: brown;
+}
+
+.sub{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
